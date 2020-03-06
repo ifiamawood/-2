@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include<opencv.hpp>
 
-using namespace std;
+using namespace cv;
 
 int main()
 {
